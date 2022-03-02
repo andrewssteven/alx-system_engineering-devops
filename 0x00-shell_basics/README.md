@@ -1,1 +1,1 @@
-Shell 0x1
+#!bin/bash
